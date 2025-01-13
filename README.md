@@ -12,4 +12,8 @@
 5- نمایش آیکون‌ها: آیکون‌های درج‌شده در موقعیت دقیق روی نقشه نمایش داده می‌شوند.
 </br>
 6- استاتیک بودن ثبت موقعیت ایکون ها زمان اسکرول و کشیدن 
-</br>
+</br></br>
+</br></br>
+
+<img src="https://github.com/abolfazl-khalaj/Interactive-map/blob/main/Screenshot%20(92).png">
+<img src="https://github.com/abolfazl-khalaj/Interactive-map/blob/main/Screenshot%20(91).png">
